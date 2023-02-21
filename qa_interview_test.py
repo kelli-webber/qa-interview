@@ -6,7 +6,7 @@ class MyTestClass(BaseCase):
 
         # after landing on the main page, search "react" in the search bar
         
-        # go through languages filter and verfy results
+        # click on the filter dropdown to go through different filters and perform some tesing.
 
         # clear the filter and go to facebook/react repo and verfy some page elements
         
